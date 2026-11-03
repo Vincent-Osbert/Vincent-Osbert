@@ -9,7 +9,8 @@ Data Science undergraduate at Universitas Brawijaya (Malang, Indonesia). I build
 | Result | Competition | Task |
 |---|---|---|
 | 8th (private LB) | ARA ITS 7.0 | Pothole segmentation, SegFormer MiT-B5, Dice 0.804 · [repo](https://github.com/Vincent-Osbert/ara-its-pothole-segmentation) |
-| 9th (private LB) | NSC 2026 | Greenhouse humidity forecasting, 4-model ensemble with chronological CV |
+| 9th (private LB) | National Statistics Challenge 2026 | Air humidity forecasting from IoT sensors, 4-model ensemble with chronological CV, RMSE 3.91 · [repo](https://github.com/Vincent-Osbert/nsc-2026-air-humidity-forecasting) |
+| 12th (private LB) | FIK FAIR 2026 | Tabular regression on 382 rows, kernel hybrids + TabPFN, row-order leak found and not used · [repo](https://github.com/Vincent-Osbert/fikfair-2026-tabular-regression) |
 | National finalist | DataQuest 5.0, Universitas Airlangga | Life-satisfaction prediction for 95,609 survey respondents |
 
 #### Projects
